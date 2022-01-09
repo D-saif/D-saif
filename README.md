@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saif Dhifi
 - 👀 I’m interested in Software Engineering, Computer Programming and Free Software Movement
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript && Golang
 - 💞️ I’m looking to collaborate on some FOSS projects
 - 📫 How to reach me :
 
